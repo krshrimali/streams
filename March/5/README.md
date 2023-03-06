@@ -13,8 +13,11 @@ Stream link: https://www.twitch.tv/videos/1756272449
 
 ## Stream - 2
 
+Stream link: https://www.twitch.tv/videos/1756538764
+
 **Agenda:**
 
-1. [Discussion on "Build your entire tech stack in Rust"](https://www.youtube.com/watch?v=luOgEhLE2sg)
+1. ~[Discussion on "Build your entire tech stack in Rust"](https://www.youtube.com/watch?v=luOgEhLE2sg)~
 2. Discussion on ["Why is Building a UI in Rust so hard?"](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
-3. Rust analyzer debug: can we improve the error message that we discussed in Stream-1
+3. ~Rust analyzer debug: can we improve the error message that we discussed in Stream-1~
+4. Can we show current layout on Kitty?
